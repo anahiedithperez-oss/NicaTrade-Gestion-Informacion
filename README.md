@@ -15,7 +15,7 @@ Organizar la información relacionada con una operación de importación desde M
 - **PowerPoint** — Comunicación de resultados mediante una presentación.
 - **Google Drive** — Organización del trabajo en equipo y colaboración.
 - **GitHub** — Repositorio digital y registro de cambios del proyecto.
-- **Simulación de gestión documental con Google Drive** — Representación de conceptos de un sistema tipo Alfresco Content Services (organización, control de acceso, recuperación de documentos).
+- **Simulación de gestión documental con Google Drive** — Organización, control de acceso, recuperación de documentos.
 
 ## Resultados principales
 
