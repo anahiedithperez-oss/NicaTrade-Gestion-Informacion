@@ -17,16 +17,6 @@ Organizar la información relacionada con una operación de importación desde M
 - **GitHub** — Repositorio digital y registro de cambios del proyecto.
 - **Simulación de gestión documental con Google Drive** — Representación de conceptos de un sistema tipo Alfresco Content Services (organización, control de acceso, recuperación de documentos).
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| Informe_Ejecutivo_Importación_México.docx | Informe ejecutivo de la operación de importación. |
-| Análisis_Importación_México.xlsx | Análisis y procesamiento de los datos de importación. |
-| Resultados_Importación_México.pptx | Presentación con los resultados del análisis. |
-| Evidencia_Estructura.png | Captura de la estructura documental simulada en Google Drive. |
-| Evidencia_Permisos.png | Captura de la búsqueda de documentos y/o configuración de permisos. |
-
 ## Resultados principales
 
 - **Importe total de la operación:** $40,359.00
